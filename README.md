@@ -67,22 +67,22 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "tempC": 17.8,
-    "tempF": 64,
-    "windMph": 4.3,
-    "windKph": 6.8,
-    "windDegree": 270,
-    "windDir": "W",
-    "pressureMb": 1016,
-    "pressureIn": 30,
+    "tempC": 15.6,
+    "tempF": 60.1,
+    "windMph": 4.9,
+    "windKph": 7.9,
+    "windDegree": 315,
+    "windDir": "NW",
+    "pressureMb": 1021,
+    "pressureIn": 30.16,
     "precipMm": 0,
     "precipIn": 0,
-    "feelslikeC": 17.8,
-    "feelslikeF": 64,
+    "feelslikeC": 15.6,
+    "feelslikeF": 60.1,
     "visKm": 16,
     "visMiles": 9,
-    "gustMph": 13.7,
-    "gustKph": 22.1
+    "gustMph": 6.6,
+    "gustKph": 10.5
   },
   "code": 200
 }
@@ -110,7 +110,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
